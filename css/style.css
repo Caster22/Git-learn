@@ -1,5 +1,8 @@
 h3 {
-    color: red;
+    color: yellow;
+    background-color-color: white;
+    border: 1px solid greenyellow;
+    border-radius: 25px;
 
 }
 h1 {
